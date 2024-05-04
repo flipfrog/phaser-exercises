@@ -81,3 +81,6 @@ yarn-debug.log*
 !/tmp/storage/.keep
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+.tool-versions
+
