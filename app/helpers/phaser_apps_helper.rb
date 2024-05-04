@@ -1,0 +1,2 @@
+module PhaserAppsHelper
+end
