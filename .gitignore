@@ -83,4 +83,5 @@ yarn-debug.log*
 /config/master.key
 
 .tool-versions
+.idea
 
