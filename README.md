@@ -24,7 +24,7 @@ bundle exec rails server
 - Access to http://localhost:3000/
 
 ### RUN FRONTEND FOR DEVELOPMENT
-Execute respectively as isolated processes bellows;
+Execute bellow respectively as isolated processes;
 ```shell
 cd frontend && npm run dev
 ```
